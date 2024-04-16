@@ -37,7 +37,7 @@
 	</div>
 	<!-- // content -->
 
-	</div>
+	
 	<!-- // container -->
 
 	<!-- Footer -->

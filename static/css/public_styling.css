@@ -367,3 +367,33 @@ form input:focus {
   margin: 20px auto 0px;
   padding: 20px 0px;
 }
+
+#lebody
+{
+	padding-top: 5px;
+	border: 2px solid #f7f7f7;
+	height: 300px;
+	width: 60%;
+	margin-top: 2px;
+}
+
+#letitre
+{
+	text-align: center;
+}
+
+
+#lasurface{
+	display: flex;
+}
+
+#tabtopics {
+    border-collapse: collapse; /* Pour fusionner les bordures des cellules */
+    width: 100%; /* Largeur du tableau */
+}
+
+#tabtopics th, #tabtopics td {
+    border: 1px solid #000; /* Définition des bordures */
+    padding: 8px; /* Ajout d'un espace à l'intérieur des cellules */
+    text-align: left; /* Alignement du texte à gauche */
+}
